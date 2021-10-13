@@ -142,7 +142,7 @@ de un determinado producto.
 
 Para controlarlo, creamos un trigger sobre la tabla LINEAS_FACTURA, de forma 
 que cada vez que se añada, cambie o borre una línea se actualice en la tabla
-PRODUCTOS la columna TOTAL_VENDIDO, ya sea añadiendo o restando.
+PRODUCTOS la columna TOTAL_VENDIDO, ya sea añadiendo o restando.*/
 
 
 
